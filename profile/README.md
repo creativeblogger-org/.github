@@ -1,15 +1,23 @@
-## Creative Blogger vous souhaite la bienvenue sur GitHub ! 👋
+<p align="center">
+  <img src="/docs/logo.png" alt="Sublime's custom image"/>
+  <h1 align="center">📝 Creative Blogger 📝</h1>
+</p>
 
-**Laissez-nous nous présenter...**
+---
 
-- 🙋‍♀️ Un projet **collaboratif** entre bloggers ;
+> Bienvenue sur l'organisation Github officielle de Creative Blogger !
 
-- 🌈 Un projet **open source** ;
+Ici vous pourrez retrouver :
 
-- 💻 Un projet auquel **vous** pouvez participer ;
+- 🌐 Le repository de notre site web
+- 🖧 L'API complète de notre site web
+- 👴 Les anciennes versions des sites et API qu'a connus Creative Blogger
 
-- 🎨 Un projet **hautement** customisable et prêt à l'emploi !
+Tous ces templates, vous pouvez les **réutiliser** sous la license MIT. ( on est très généreux )
 
-Nous utilisons nos propres sources pour notre blog.
+Vous pouvez également retrouvez l'équipe au complète de Creative Blogger ( RIP Micorksen on pense fort à toi )
 
-Rejoignez-nous [ici](https://creativeblogger.org).
+
+[Retrouvez nous sur notre site](https://creativeblogger.org)
+
+[Ou sur notre serveur discord](https://discord.gg/uT8zVVn6rQ)
